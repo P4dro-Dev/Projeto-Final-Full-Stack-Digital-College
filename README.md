@@ -1,6 +1,6 @@
 # Digital Story 🛒
 
-Bem-vindo ao repositório da **Digital Story**! Este é um projeto de e-commerce desenvolvido com **React**, **PrimeReact**, **PrimeIcons** e outras tecnologias modernas para oferecer uma experiência de compra online intuitiva e responsiva, e colocar em pratica todo conhecimento adquirido no Projeto GeraçãoTech 3.
+Bem-vindo ao repositório da **Digital Story**! Este é um projeto de e-commerce desenvolvido com **React**, **PrimeReact**, **PrimeIcons** e outras tecnologias modernas para oferecer uma experiência de compra online intuitiva e responsiva, e colocar em pratica todo conhecimento adquirido no Projeto GeraçãoTech 3. 
  
 ## Tecnologias Utilizadas 🚀
 
